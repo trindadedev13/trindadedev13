@@ -16,8 +16,11 @@
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
 <br>
-
+    
 ## <p align="center"> Platforms and Tools I use
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
