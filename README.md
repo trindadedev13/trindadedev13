@@ -12,6 +12,8 @@
   </a>
 </div>
 
+## <p align="center">I am offline because I have no devices now.
+
 ## <p align="center"> Languages I use
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
