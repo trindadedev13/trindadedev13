@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Aquiles+Trindade;I+am+Brazilian;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=pie&theme=dark"/>
 </div>
 
 <div align="center">
