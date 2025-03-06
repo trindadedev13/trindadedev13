@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Aquiles+Trindade;I+am+Brazilian;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trindadedev13&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Aquiles Trindade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=pie"/>
 </div>
 
 <div align="center">
