@@ -21,9 +21,7 @@
   </li>
 </div>
 
-## <p align="center">I am offline because I have no devices now.
-
-## <p align="center"> Languages I use
+## <p align="center"> Languages
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
@@ -32,7 +30,7 @@
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
 <br>
     
-## <p align="center"> Platforms and Tools I use
+## <p align="center"> Platforms and Tools
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
