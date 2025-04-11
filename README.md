@@ -12,15 +12,6 @@
   </a>
 </div>
 
-## <p align="center"> Projects with my own.
-<div align="center">
-  <li>
-    <ul>
-      <a href="https://github.com/Robok-Engine">Robok Engine</a>: Develop 3D Android Games easily.
-    </ul>
-  </li>
-</div>
-
 ## <p align="center"> Languages
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
