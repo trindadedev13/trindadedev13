@@ -18,9 +18,9 @@
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
-     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
+    <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg"> -->
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby2.svg">
-  
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">
 <br>
     
 ## <p align="center"> Platforms and Tools
