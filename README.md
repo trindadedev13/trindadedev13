@@ -16,8 +16,8 @@ int main(void) {
   };
 
   struct project main_projects [] = {
-    { "hate2d", "Game Ruby & Lua Framework" },
-    { "Kilate", "Simple, easy and fast language." }
+    { "hate2d", "An Game Ruby Framework" },
+    { "PantanalOS", "An X86/X86_64 Brazilian OS." }
   };
 }
 ```
