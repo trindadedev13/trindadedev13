@@ -8,26 +8,33 @@ struct project {
   char* desc;
 };
 
-int main(void) {
-  char* languages[] = {
-    "C", "C++",
-    "Java", "Kotlin",
-    "Ruby", "Rust"
-  };
+#define MAX 10
 
-  struct project main_projects [] = {
-    { "hate2d", "An Game Ruby Framework" },
-    { "PantanalOS", "An X86/X86_64 Brazilian OS." }
+struct dev {
+  char* name;
+  char* langs[MAX];
+  struct project projects[MAX];
+};
+
+int main() {
+  struct dev aquiles = {
+      .name = "Aquiles Trindade",
+      .langs = {
+        "C", "C++", "Crystal",
+        "Rust", "Ruby",
+        "Java", "Kotlin"
+      },
+      .projects = {
+        {"Meth", "Tiny Compiled Programming Language"}
+      }
   };
+  return 0;
 }
 ```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact"></img>
-  
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{trindadedev13}/count.svg" /></p> 
-<br></div>
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
