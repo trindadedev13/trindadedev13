@@ -13,12 +13,14 @@ struct project {
 struct dev {
   char* name;
   char* langs[MAX];
+  char* status;
   struct project projects[MAX];
 };
 
 int main() {
   struct dev aquiles = {
       .name = "Aquiles Trindade",
+      .status = "Learning German 🇩🇪",
       .langs = {
         "C", "C++", "Crystal",
         "Rust", "Ruby",
