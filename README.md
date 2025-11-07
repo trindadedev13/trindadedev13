@@ -20,7 +20,7 @@ struct dev {
 int main() {
   struct dev aquiles = {
       .name = "Aquiles Trindade",
-      .status = "Learning German 🇩🇪",
+      .status = "Learning Golang",
       .langs = {
         "C", "C++", "Crystal",
         "Rust", "Ruby",
